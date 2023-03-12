@@ -1,0 +1,23 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 24pt;
+    padding-left: 20px;
+}
+
+#main-heading {
+    font-size: 28pt;
+    padding-top: 10px;
+}
+
+#used_price1, #used_price2, #used_price3, #used_price4, #used_price5, #used_price6,
+#new_price1, #new_price2, #new_price3, #new_price4, #new_price5, #new_price6 {
+    font-size: 40px;
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+}

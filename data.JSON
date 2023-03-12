@@ -1,0 +1,142 @@
+{
+    "usedCars": [
+        {
+            "make": "Chevrolet",
+            "model": "Camaro",
+            "year": "2010",
+            "color": "Yellow",
+            "miles": "14,168",
+            "type": "Sedan",
+            "price": "$23,186",
+            "image_fileName": "used_2010_chevrolet_camaro.jpg"
+        },
+
+        {
+            "make": "Ford",
+            "model": "Mustang",
+            "year": "1996",
+            "color": "Aqua",
+            "miles": "76,429",
+            "type": "Sedan",
+            "price": "$14,160",
+            "image_fileName": "used_1996_ford_mustang.jpg"
+        },
+
+        {
+            "make": "Nissan",
+            "model": "Rogue",
+            "year": "2021",
+            "color": "Grey",
+            "miles": "28,375",
+            "type": "SUV",
+            "price": "$36,422",
+            "image_fileName": "used_2021_nissan_rogue.jpeg"
+        },
+
+        {
+            "make": "Ford",
+            "model": "F150",
+            "year": "2007",
+            "color": "Tan",
+            "miles": "114,743",
+            "type": "Truck",
+            "price": "$18,940",
+            "image_fileName": "used_2007_ford_f150.jpg"
+        },
+
+        {
+            "make": "BMW",
+            "model": "X3",
+            "year": "2007",
+            "color": "Grey",
+            "miles": "42,932",
+            "type": "SUV",
+            "price": "$32,408",
+            "image_fileName": "used_2007_bmw_x3.jpg"
+        },
+
+        {
+            "make": "Dodge",
+            "model": "Viper",
+            "year": "1997",
+            "color": "Red",
+            "miles": "326",
+            "type": "Sports",
+            "price": "$72,998",
+            "image_fileName": "used_1997_dodge_viper.jpg"
+        }
+    ],
+
+    "newCars": [
+        {
+            "make": "Tesla",
+            "model": "Model S",
+            "year": "2022",
+            "color": "Red",
+            "miles": "0",
+            "type": "Electric, Luxury",
+            "price": "$89,495",
+            "image_fileName": "new_2022_tesla_models.jpg"
+        },
+
+        {
+            "make": "Dodge",
+            "model": "Challenger",
+            "year": "2022",
+            "color": "Purple",
+            "miles": "0",
+            "type": "Sports",
+            "price": "$78,955",
+            "image_fileName": "new_2022_dodge_challenger.jpg"
+        },
+
+        {
+            "make": "Hyundai",
+            "model": "Elantra",
+            "year": "2021",
+            "color": "Grey",
+            "miles": "0",
+            "type": "Sedan",
+            "price": "$56,288",
+            "image_fileName": "new_2021_hyundai_elantra.jpg"
+        },
+
+        {
+            "make": "Porsche",
+            "model": "Cayenne",
+            "year": "2023",
+            "color": "White",
+            "miles": "0",
+            "type": "Luxury, SUV",
+            "price": "$88,467",
+            "image_fileName": "new_2023_porsche_cayenne.jpg"
+        },
+
+        {
+            "make": "Honda",
+            "model": "Civic",
+            "year": "2021",
+            "color": "Blue",
+            "miles": "0",
+            "type": "Sedan",
+            "price": "$39,884",
+            "image_fileName": "new_2021_honda_civic.png"
+        },
+
+        {
+            "make": "Alfa Romeo",
+            "model": "Stelvio",
+            "year": "2020",
+            "color": "Maroon",
+            "miles": "0",
+            "type": "Luxury, SUV",
+            "price": "$96,364",
+            "image_fileName": "new_2020_alfaromeo_stelvio.jpg"
+        }
+
+        
+
+
+
+    ]
+}
